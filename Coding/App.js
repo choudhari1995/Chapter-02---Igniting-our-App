@@ -1,18 +1,17 @@
 
 //manupulate html dom using javascript 
 
-/*
+
 
 const heading = document.createElement('h1');
 heading.innerHTML = 'hello';
 
-const root = document.getElementById('root');
+const roots = document.getElementById('root');
 
 root.appendChild(heading);
 
-console.log(root);
+console.log(roots);
 
-*/
 
 //manupulate Html dom using react dom
 
